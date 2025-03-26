@@ -17,7 +17,7 @@ const App = () => {
           </h1>
         </header>
 
-        <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+        <search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
       </div>
     </main>
   )
